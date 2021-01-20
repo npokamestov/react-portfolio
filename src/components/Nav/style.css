@@ -1,0 +1,29 @@
+.nav {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-item {
+    justify-content: space-between;
+    padding: 15px;
+    text-align: end;
+}
+
+span {
+    cursor: pointer;
+}
+
+span:hover {
+    color: tan;
+}
+
+.navActive {
+    color: tan
+}
+
+/* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
+@media screen and (max-width: 600px) {
+    .nav-item {
+        padding: 5px;
+    }
+}

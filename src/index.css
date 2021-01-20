@@ -1,5 +1,7 @@
 body {
-  margin: 0;
+  background: url("./assets/images/hero-full.png") no-repeat center fixed;
+  background-size: cover;
+  color: white;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -10,4 +12,41 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.hero {
+  height: 20vh;
+  width: 100%;
+  padding: 5%;
+}
+
+.main {
+  padding: 4px;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.footer {
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+ul {
+  padding-inline-start: unset;
+}
+
+li {
+  list-style-type: none;
+}
+
+.text-background {
+  background-color: rgba(210,180,140,0.7);
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+  padding: 5px;
 }

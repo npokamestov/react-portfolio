@@ -1,0 +1,67 @@
+.tile {
+    width: 350px;
+    height: 350px;
+    margin: 10px;
+    border-radius: 25px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.langmentor {
+    background-image: url('../../assets/images/langmentor.png');
+}
+
+.job-psychic {
+    background-image: url('../../assets/images/job-psychic.png');
+}
+
+.budget-tracker {
+    background-image: url('../../assets/images/budget-tracker.png');
+}
+
+.tech-blog {
+    background-image: url('../../assets/images/tech-blog.png');
+}
+
+.note-taker {
+    background-image: url('../../assets/images/note-taker.png');
+}
+
+.weather {
+    background-image: url('../../assets/images/weather.png');
+}
+
+.image {
+    opacity: 1;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+.middle {
+    transition: .5s ease;
+    opacity: 0;
+    height: 100%;
+    align-content: center;
+    position: relative;
+    padding-top: 35%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+.image:hover {
+    opacity: 1;
+}
+
+.middle:hover {
+    opacity: 0.9;
+    background-color:black;
+    border-radius: 24px;
+}
+
+.text {
+    color: white;
+    opacity: 1;
+}

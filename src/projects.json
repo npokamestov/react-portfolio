@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 0,
+        "name": "Langmentor",
+        "description": "Full Stack",
+        "url": "https://langmentor.herokuapp.com",
+        "github": "https://github.com/npokamestov/ucf-project-2",
+        "image" : "langmentor"
+    }, 
+    {
+        "id" : 1,
+        "name": "Job Psychic",
+        "description": "Front End",
+        "url": "https://npokamestov.github.io/job-psychic/",
+        "github": "https://github.com/npokamestov/job-psychic",
+        "image" : "job-psychic"
+    },
+    {
+        "id" : 2,
+        "name":"Budget Tracker",
+        "description": "Full Stack",
+        "url": "https://ucf-2020-budget-tracker.herokuapp.com",
+        "github": "https://github.com/npokamestov/budget-tracker",
+        "image" : "budget-tracker"
+    },
+    {
+        "id" : 3,
+        "name": "Tech Blog",
+        "description": "Full Stack",
+        "url": "https://stormy-meadow-54052.herokuapp.com",
+        "github": "https://github.com/npokamestov/tech_blog",
+        "image" : "tech-blog"
+    },
+    {
+        "id" : 4,
+        "name": "Note Taker",
+        "description": "Front End",
+        "url": "https://quiet-cove-53427.herokuapp.com",
+        "github": "https://github.com/npokamestov/note-taker",
+        "image" : "note-taker"
+    },
+    {
+        "id" : 5,
+        "name": "Weather Dashboard",
+        "description": "Full Stack",
+        "url": "https://npokamestov.github.io/weather_dashboard/",
+        "github": "https://github.com/npokamestov/weather_dashboard",
+        "image" : "weather"
+    }
+]
