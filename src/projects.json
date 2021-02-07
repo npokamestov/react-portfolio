@@ -1,6 +1,14 @@
 [
     {
         "id" : 0,
+        "name": "Sneakerz Seekerz",
+        "description": "MERN Stack",
+        "url": "https://covid-19-vax-locations.herokuapp.com",
+        "github": "https://github.com/jcgom3/Project-3-sneakerz-seekerz",
+        "image" : "sneakerz-seekerz"
+    },
+    {
+        "id" : 1,
         "name": "Langmentor",
         "description": "Full Stack",
         "url": "https://langmentor.herokuapp.com",
@@ -8,7 +16,7 @@
         "image" : "langmentor"
     }, 
     {
-        "id" : 1,
+        "id" : 2,
         "name": "Job Psychic",
         "description": "Front End",
         "url": "https://npokamestov.github.io/job-psychic/",
@@ -16,7 +24,7 @@
         "image" : "job-psychic"
     },
     {
-        "id" : 2,
+        "id" : 3,
         "name":"Budget Tracker",
         "description": "Full Stack",
         "url": "https://ucf-2020-budget-tracker.herokuapp.com",
@@ -24,7 +32,7 @@
         "image" : "budget-tracker"
     },
     {
-        "id" : 3,
+        "id" : 4,
         "name": "Tech Blog",
         "description": "Full Stack",
         "url": "https://stormy-meadow-54052.herokuapp.com",
@@ -32,7 +40,7 @@
         "image" : "tech-blog"
     },
     {
-        "id" : 4,
+        "id" : 5,
         "name": "Note Taker",
         "description": "Front End",
         "url": "https://quiet-cove-53427.herokuapp.com",
@@ -40,19 +48,11 @@
         "image" : "note-taker"
     },
     {
-        "id" : 5,
+        "id" : 6,
         "name": "Weather Dashboard",
         "description": "Full Stack",
         "url": "https://npokamestov.github.io/weather_dashboard/",
         "github": "https://github.com/npokamestov/weather_dashboard",
         "image" : "weather"
-    },
-    {
-        "id" : 6,
-        "name": "Sneakerz Seekerz",
-        "description": "MERN Stack",
-        "url": "https://covid-19-vax-locations.herokuapp.com",
-        "github": "https://github.com/jcgom3/Project-3-sneakerz-seekerz",
-        "image" : "sneakerz-seekerz"
     }
 ]
