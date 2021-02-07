@@ -46,5 +46,13 @@
         "url": "https://npokamestov.github.io/weather_dashboard/",
         "github": "https://github.com/npokamestov/weather_dashboard",
         "image" : "weather"
+    },
+    {
+        "id" : 6,
+        "name": "Sneakerz Seekerz",
+        "description": "MERN Stack",
+        "url": "https://covid-19-vax-locations.herokuapp.com",
+        "github": "https://github.com/jcgom3/Project-3-sneakerz-seekerz",
+        "image" : "sneakerz-seekerz"
     }
 ]
