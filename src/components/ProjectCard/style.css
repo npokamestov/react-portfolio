@@ -32,6 +32,10 @@
     background-image: url('../../assets/images/weather.png');
 }
 
+.sneakerz-seekerz {
+    background-image: url('../../assets/images/sneakerz-seekerz.png');
+}
+
 .image {
     opacity: 1;
     transition: .5s ease;
