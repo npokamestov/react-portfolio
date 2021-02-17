@@ -9,11 +9,13 @@ const ProjectCard = (props) => {
             <div className='middle'>
                 <ul className='text'>
                     <li>
-                        <a href={props.url}>
-                            {props.name}
-                        </a>
+                        <h5>
+                            <a href={props.url}>
+                                {props.name}
+                            </a>
+                        </h5>
                     </li>
-                    <li>
+                    <li className='description-margin'>
                         {props.description}
                     </li>
                     <li>
