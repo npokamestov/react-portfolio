@@ -16,8 +16,11 @@ const Footer = () => {
                         <a href='https://www.linkedin.com/in/nikita-pokamestov-39b11b9a/'><span><i className='fab fa-linkedin fa-3x'></i></span></a>
                     </li>
 
-                    <li className='nav-item'>
+                    {/* <li className='nav-item'>
                         <a href='https://stackoverflow.com/users/13995510/nikita-pokamestov'><span><i className='fab fa-stack-overflow fa-3x'></i></span></a>
+                    </li> */}
+                    <li className='nav-item'>
+                        <a href='mailto: npokamestov@yahoo.com'><span><i class="fas fa-envelope fa-3x"></i></span></a>
                     </li>
                 </ul>
             </nav>
