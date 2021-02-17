@@ -22,6 +22,7 @@ const Portfolio = () => {
                         url={project.url}
                         github={project.github}
                         image={project.image}
+                        technology={project.technology}
                     />
                 ))}
             </Wrapper>

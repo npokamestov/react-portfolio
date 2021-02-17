@@ -3,6 +3,7 @@
         "id" : 0,
         "name": "Sneakerz Seekerz",
         "description": "One-stop shop for the best sneakers, verified",
+        "technology": "MERN Stack",
         "url": "https://covid-19-vax-locations.herokuapp.com",
         "github": "https://github.com/jcgom3/Project-3-sneakerz-seekerz",
         "image" : "sneakerz-seekerz"
@@ -11,6 +12,7 @@
         "id" : 1,
         "name": "Langmentor",
         "description": "One on one language mentorship service",
+        "technology": "Basic Full Stack",
         "url": "https://langmentor.herokuapp.com",
         "github": "https://github.com/npokamestov/ucf-project-2",
         "image" : "langmentor"
@@ -19,6 +21,7 @@
         "id" : 2,
         "name": "Job Psychic",
         "description": "Job Search Engine",
+        "technology": "Basic Full Stack",
         "url": "https://npokamestov.github.io/job-psychic/",
         "github": "https://github.com/npokamestov/job-psychic",
         "image" : "job-psychic"
@@ -27,6 +30,7 @@
         "id" : 3,
         "name":"Budget Tracker",
         "description": "Simple online budget tracker",
+        "technology": "Basic Full Stack",
         "url": "https://ucf-2020-budget-tracker.herokuapp.com",
         "github": "https://github.com/npokamestov/budget-tracker",
         "image" : "budget-tracker"
@@ -35,6 +39,7 @@
         "id" : 4,
         "name": "Tech Blog",
         "description": "Open blog for tech information and discussion",
+        "technology": "Basic Full Stack",
         "url": "https://stormy-meadow-54052.herokuapp.com",
         "github": "https://github.com/npokamestov/tech_blog",
         "image" : "tech-blog"
@@ -43,6 +48,7 @@
         "id" : 5,
         "name": "Note Taker",
         "description": "Simple note taking app",
+        "technology": "Simple Front-End",
         "url": "https://quiet-cove-53427.herokuapp.com",
         "github": "https://github.com/npokamestov/note-taker",
         "image" : "note-taker"
@@ -51,6 +57,7 @@
         "id" : 6,
         "name": "Weather Dashboard",
         "description": "Organizes places where you want to know what the weather is like",
+        "technology": "Simple Front-End",
         "url": "https://npokamestov.github.io/weather_dashboard/",
         "github": "https://github.com/npokamestov/weather_dashboard",
         "image" : "weather"

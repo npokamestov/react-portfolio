@@ -18,6 +18,9 @@ const ProjectCard = (props) => {
                     <li className='description-margin'>
                         {props.description}
                     </li>
+                    <li className='description-margin'>
+                        {props.technology}
+                    </li>
                     <li>
                         <a href={props.github}>
                             <span><i className='fab fa-github fa-3x'></i></span>
